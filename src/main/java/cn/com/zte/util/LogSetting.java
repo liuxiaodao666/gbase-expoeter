@@ -50,6 +50,7 @@ public class LogSetting extends FixedWindowRollingPolicy {
         String t = format.format(date);
         //System.out.println(String.format(s, t, "123456"));
         CustomRollingFileAppender.FileName = String.format(s, t, sixBitRandomNumber);
+        CustomRollingFileAppender.currentlyActiveFile=new File(CustomRollingFileAppender.FileName);
         return CustomRollingFileAppender.FileName;
     }
 

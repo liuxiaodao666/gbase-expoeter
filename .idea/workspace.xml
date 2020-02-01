@@ -98,7 +98,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
+            <state relative-caret-position="53">
               <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
             </state>
           </provider>
@@ -278,17 +278,6 @@
             <path>
               <item name="gbase-expoeter" type="b2602c69:ProjectViewProjectNode" />
               <item name="gbase-expoeter" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gbase-expoeter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gbase-expoeter" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-              <item name="zip" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gbase-expoeter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gbase-expoeter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -416,12 +405,12 @@
       <workItem from="1580050987940" duration="940000" />
       <workItem from="1580052061456" duration="1243000" />
       <workItem from="1580307126540" duration="32041000" />
-      <workItem from="1580483389659" duration="11341000" />
+      <workItem from="1580483389659" duration="12134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52134000" />
+    <option name="totallyTimeSpent" value="52927000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -444,7 +433,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5879733" side_tool="true" weight="0.26226014" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5740938" weight="0.36510265" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5740938" weight="0.36417034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,7 +441,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.63136727" visible="true" weight="0.6387665" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.63136727" visible="true" weight="0.69603527" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.42590618" side_tool="true" weight="0.27951002" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.41202345" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4966488" weight="0.32844576" />
@@ -811,7 +800,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="53">
           <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
